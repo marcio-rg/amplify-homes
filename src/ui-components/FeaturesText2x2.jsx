@@ -134,7 +134,7 @@ export default function FeaturesText2x2(props) {
                 )}
               ></IconAddBox>
               <Text
-                fontFamily="Assistant"
+                fontFamily="Inter"
                 fontSize="16px"
                 fontWeight="700"
                 color="rgba(255,255,255,1)"
@@ -155,7 +155,7 @@ export default function FeaturesText2x2(props) {
                 )}
               ></Text>
               <Text
-                fontFamily="Indie Flower"
+                fontFamily="Inter"
                 fontSize="16px"
                 fontWeight="400"
                 color="rgba(255,255,255,1)"
@@ -207,7 +207,7 @@ export default function FeaturesText2x2(props) {
                 )}
               ></IconAddBox>
               <Text
-                fontFamily="Assistant"
+                fontFamily="Inter"
                 fontSize="16px"
                 fontWeight="700"
                 color="rgba(255,255,255,1)"
@@ -228,7 +228,7 @@ export default function FeaturesText2x2(props) {
                 )}
               ></Text>
               <Text
-                fontFamily="Indie Flower"
+                fontFamily="Inter"
                 fontSize="16px"
                 fontWeight="400"
                 color="rgba(255,255,255,1)"
@@ -291,7 +291,7 @@ export default function FeaturesText2x2(props) {
                 )}
               ></IconAddBox>
               <Text
-                fontFamily="Assistant"
+                fontFamily="Inter"
                 fontSize="16px"
                 fontWeight="700"
                 color="rgba(255,255,255,1)"
@@ -312,7 +312,7 @@ export default function FeaturesText2x2(props) {
                 )}
               ></Text>
               <Text
-                fontFamily="Indie Flower"
+                fontFamily="Inter"
                 fontSize="16px"
                 fontWeight="400"
                 color="rgba(255,255,255,1)"
@@ -364,7 +364,7 @@ export default function FeaturesText2x2(props) {
                 )}
               ></IconAddBox>
               <Text
-                fontFamily="Assistant"
+                fontFamily="Inter"
                 fontSize="16px"
                 fontWeight="700"
                 color="rgba(255,255,255,1)"
@@ -385,7 +385,7 @@ export default function FeaturesText2x2(props) {
                 )}
               ></Text>
               <Text
-                fontFamily="Indie Flower"
+                fontFamily="Inter"
                 fontSize="16px"
                 fontWeight="400"
                 color="rgba(255,255,255,1)"

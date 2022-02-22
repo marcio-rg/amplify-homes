@@ -35,7 +35,7 @@ export default function ProductDetail(props) {
         width="740px"
         grow="1"
         basis="740px"
-        height="1074px"
+        height="1098px"
         position="relative"
         padding="0px 0px 0px 0px"
         {...getOverrideProps(overrides, "Flex.Flex[0]")}
@@ -89,7 +89,7 @@ export default function ProductDetail(props) {
               )}
             ></Text>
             <Text
-              fontFamily="Indie Flower"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="400"
               color="rgba(92.00000211596489,102.00000151991844,112.000000923872,1)"
@@ -129,7 +129,7 @@ export default function ProductDetail(props) {
             {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Flex[1]")}
           >
             <Text
-              fontFamily="Assistant"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="700"
               color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -150,7 +150,7 @@ export default function ProductDetail(props) {
               )}
             ></Text>
             <Text
-              fontFamily="Indie Flower"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="400"
               color="rgba(92.00000211596489,102.00000151991844,112.000000923872,1)"
@@ -190,7 +190,7 @@ export default function ProductDetail(props) {
             {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Flex[2]")}
           >
             <Text
-              fontFamily="Assistant"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="700"
               color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -211,7 +211,7 @@ export default function ProductDetail(props) {
               )}
             ></Text>
             <Text
-              fontFamily="Indie Flower"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="400"
               color="rgba(92.00000211596489,102.00000151991844,112.000000923872,1)"
@@ -474,7 +474,7 @@ export default function ProductDetail(props) {
             {...getOverrideProps(overrides, "Flex.Flex[1].Flex[1].Text[0]")}
           ></Text>
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(48.000000938773155,64.00000378489494,80.00000283122063,1)"

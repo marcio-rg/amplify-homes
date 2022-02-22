@@ -122,7 +122,7 @@ export default function Features2x3(props) {
                   )}
                 ></Text>
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(255,255,255,1)"
@@ -222,7 +222,7 @@ export default function Features2x3(props) {
                   )}
                 ></Text>
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(255,255,255,1)"
@@ -322,7 +322,7 @@ export default function Features2x3(props) {
                   )}
                 ></Text>
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(255,255,255,1)"
@@ -434,7 +434,7 @@ export default function Features2x3(props) {
                   )}
                 ></Text>
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(255,255,255,1)"
@@ -534,7 +534,7 @@ export default function Features2x3(props) {
                   )}
                 ></Text>
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(255,255,255,1)"
@@ -634,7 +634,7 @@ export default function Features2x3(props) {
                   )}
                 ></Text>
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(255,255,255,1)"

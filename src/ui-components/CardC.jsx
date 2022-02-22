@@ -51,7 +51,7 @@ export default function CardC(props) {
           {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0]")}
         >
           <Text
-            fontFamily="Assistant"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="700"
             color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -69,7 +69,7 @@ export default function CardC(props) {
             {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Text[0]")}
           ></Text>
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(48.000000938773155,64.00000378489494,80.00000283122063,1)"

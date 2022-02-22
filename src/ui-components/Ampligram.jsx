@@ -73,7 +73,7 @@ export default function Ampligram(props) {
             {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Image[0]")}
           ></Image>
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -247,7 +247,7 @@ export default function Ampligram(props) {
           {...getOverrideProps(overrides, "Flex.Flex[2].Flex[0]")}
         >
           <Text
-            fontFamily="Assistant"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="700"
             color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -265,7 +265,7 @@ export default function Ampligram(props) {
             {...getOverrideProps(overrides, "Flex.Flex[2].Flex[0].Text[0]")}
           ></Text>
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"

@@ -67,7 +67,7 @@ export default function SideBar(props) {
             gap="16px"
             direction="column"
             shrink="0"
-            width="131px"
+            width="140px"
             position="relative"
             padding="0px 0px 0px 0px"
             {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Flex[0]")}
@@ -97,7 +97,7 @@ export default function SideBar(props) {
               direction="row"
               alignItems="center"
               shrink="0"
-              width="127px"
+              width="140px"
               position="relative"
               padding="0px 0px 0px 0px"
               {...getOverrideProps(
@@ -121,7 +121,7 @@ export default function SideBar(props) {
                 )}
               ></IconHome>
               <Text
-                fontFamily="Indie Flower"
+                fontFamily="Inter"
                 fontSize="16px"
                 fontWeight="400"
                 color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -146,7 +146,7 @@ export default function SideBar(props) {
               direction="row"
               alignItems="center"
               shrink="0"
-              width="127px"
+              width="140px"
               position="relative"
               padding="0px 0px 0px 0px"
               {...getOverrideProps(
@@ -170,7 +170,7 @@ export default function SideBar(props) {
                 )}
               ></IconHome>
               <Text
-                fontFamily="Indie Flower"
+                fontFamily="Inter"
                 fontSize="16px"
                 fontWeight="400"
                 color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -195,7 +195,7 @@ export default function SideBar(props) {
             gap="16px"
             direction="column"
             shrink="0"
-            width="131px"
+            width="140px"
             position="relative"
             padding="0px 0px 0px 0px"
             {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Flex[1]")}
@@ -224,7 +224,7 @@ export default function SideBar(props) {
               gap="16px"
               direction="column"
               shrink="0"
-              width="127px"
+              width="140px"
               position="relative"
               padding="0px 0px 0px 0px"
               {...getOverrideProps(
@@ -237,7 +237,7 @@ export default function SideBar(props) {
                 direction="row"
                 alignItems="center"
                 shrink="0"
-                width="127px"
+                width="140px"
                 position="relative"
                 padding="0px 0px 0px 0px"
                 {...getOverrideProps(
@@ -261,7 +261,7 @@ export default function SideBar(props) {
                   )}
                 ></IconHome>
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -286,7 +286,7 @@ export default function SideBar(props) {
                 direction="row"
                 alignItems="center"
                 shrink="0"
-                width="127px"
+                width="140px"
                 position="relative"
                 padding="0px 0px 0px 0px"
                 {...getOverrideProps(
@@ -310,7 +310,7 @@ export default function SideBar(props) {
                   )}
                 ></IconHome>
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -335,7 +335,7 @@ export default function SideBar(props) {
                 direction="row"
                 alignItems="center"
                 shrink="0"
-                width="127px"
+                width="140px"
                 position="relative"
                 padding="0px 0px 0px 0px"
                 {...getOverrideProps(
@@ -359,7 +359,7 @@ export default function SideBar(props) {
                   )}
                 ></IconHome>
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -384,7 +384,7 @@ export default function SideBar(props) {
                 direction="row"
                 alignItems="center"
                 shrink="0"
-                width="127px"
+                width="140px"
                 position="relative"
                 padding="0px 0px 0px 0px"
                 {...getOverrideProps(
@@ -408,7 +408,7 @@ export default function SideBar(props) {
                   )}
                 ></IconHome>
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -433,7 +433,7 @@ export default function SideBar(props) {
                 direction="row"
                 alignItems="center"
                 shrink="0"
-                width="127px"
+                width="140px"
                 position="relative"
                 padding="0px 0px 0px 0px"
                 {...getOverrideProps(
@@ -457,7 +457,7 @@ export default function SideBar(props) {
                   )}
                 ></IconHome>
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -482,7 +482,7 @@ export default function SideBar(props) {
                 direction="row"
                 alignItems="center"
                 shrink="0"
-                width="127px"
+                width="140px"
                 position="relative"
                 padding="0px 0px 0px 0px"
                 {...getOverrideProps(
@@ -506,7 +506,7 @@ export default function SideBar(props) {
                   )}
                 ></IconHome>
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -531,7 +531,7 @@ export default function SideBar(props) {
                 direction="row"
                 alignItems="center"
                 shrink="0"
-                width="127px"
+                width="140px"
                 position="relative"
                 padding="0px 0px 0px 0px"
                 {...getOverrideProps(
@@ -555,7 +555,7 @@ export default function SideBar(props) {
                   )}
                 ></IconHome>
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -580,7 +580,7 @@ export default function SideBar(props) {
                 direction="row"
                 alignItems="center"
                 shrink="0"
-                width="127px"
+                width="140px"
                 position="relative"
                 padding="0px 0px 0px 0px"
                 {...getOverrideProps(
@@ -604,7 +604,7 @@ export default function SideBar(props) {
                   )}
                 ></IconHome>
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -698,7 +698,7 @@ export default function SideBar(props) {
                 )}
               >
                 <Text
-                  fontFamily="Indie Flower"
+                  fontFamily="Inter"
                   fontSize="16px"
                   fontWeight="400"
                   color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"

@@ -16,6 +16,7 @@ export default function CardB(props) {
       gap="0"
       direction="column"
       width="320px"
+      height="351px"
       justifyContent="center"
       position="relative"
       boxShadow="0px 4px 4px rgba(0, 0, 0, 0.25)"
@@ -53,7 +54,7 @@ export default function CardB(props) {
           {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0]")}
         >
           <Text
-            fontFamily="Assistant"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="700"
             color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -71,7 +72,25 @@ export default function CardB(props) {
             {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Text[0]")}
           ></Text>
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
+            fontSize="16px"
+            fontWeight="700"
+            color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
+            lineHeight="24px"
+            textAlign="left"
+            display="flex"
+            direction="column"
+            justifyContent="flex-start"
+            width="288px"
+            shrink="0"
+            alignSelf="stretch"
+            position="relative"
+            padding="0px 0px 0px 0px"
+            children={`${"Price: $"}${home?.price}${"/night"}`}
+            {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Text[1]")}
+          ></Text>
+          <Text
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -86,8 +105,24 @@ export default function CardB(props) {
             alignSelf="stretch"
             position="relative"
             padding="0px 0px 0px 0px"
-            children={`${"Price: $"}${home?.price}${"/night"}`}
-            {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Text[1]")}
+            children={`${"Size: "}${home?.size}${" sqft"}`}
+            {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Text[2]")}
+          ></Text>
+          <Text
+            fontFamily="Roboto"
+            fontSize="16px"
+            fontWeight="400"
+            color="rgba(0,0,0,1)"
+            lineHeight="24px"
+            textAlign="left"
+            display="flex"
+            direction="column"
+            justifyContent="flex-start"
+            shrink="0"
+            position="relative"
+            padding="0px 0px 0px 0px"
+            children={home?.bedrooms}
+            {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Text[3]")}
           ></Text>
         </Flex>
       </Flex>

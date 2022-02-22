@@ -70,7 +70,7 @@ export default function FormCheckout(props) {
             {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Flex[0]")}
           >
             <Text
-              fontFamily="Assistant"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="700"
               color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -131,7 +131,7 @@ export default function FormCheckout(props) {
             {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Flex[1]")}
           >
             <Text
-              fontFamily="Assistant"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="700"
               color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -276,7 +276,7 @@ export default function FormCheckout(props) {
             {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Flex[2]")}
           >
             <Text
-              fontFamily="Assistant"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="700"
               color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -429,7 +429,7 @@ export default function FormCheckout(props) {
               )}
             ></Text>
             <Text
-              fontFamily="Indie Flower"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="400"
               color="rgba(92.00000211596489,102.00000151991844,112.000000923872,1)"
@@ -443,7 +443,7 @@ export default function FormCheckout(props) {
               top="23.88059701492537%"
               bottom="58.2089552238806%"
               left="29.876543209876544%"
-              right="61.23456790123457%"
+              right="59.75308641975309%"
               padding="0px 0px 0px 0px"
               children="Black"
               {...getOverrideProps(
@@ -452,7 +452,7 @@ export default function FormCheckout(props) {
               )}
             ></Text>
             <Text
-              fontFamily="Indie Flower"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="400"
               color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -466,7 +466,7 @@ export default function FormCheckout(props) {
               top="0%"
               bottom="82.08955223880598%"
               left="29.876543209876544%"
-              right="53.58024691358024%"
+              right="51.85185185185185%"
               padding="0px 0px 0px 0px"
               children="Basic Tee"
               {...getOverrideProps(
@@ -475,7 +475,7 @@ export default function FormCheckout(props) {
               )}
             ></Text>
             <Text
-              fontFamily="Indie Flower"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="400"
               color="rgba(92.00000211596489,102.00000151991844,112.000000923872,1)"
@@ -489,7 +489,7 @@ export default function FormCheckout(props) {
               top="47.76119402985074%"
               bottom="34.32835820895522%"
               left="29.876543209876544%"
-              right="61.48148148148148%"
+              right="59.25925925925925%"
               padding="0px 0px 0px 0px"
               children="Large"
               {...getOverrideProps(
@@ -606,7 +606,7 @@ export default function FormCheckout(props) {
               )}
             ></Text>
             <Text
-              fontFamily="Indie Flower"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="400"
               color="rgba(92.00000211596489,102.00000151991844,112.000000923872,1)"
@@ -620,7 +620,7 @@ export default function FormCheckout(props) {
               top="23.88059701492537%"
               bottom="58.2089552238806%"
               left="29.876543209876544%"
-              right="61.23456790123457%"
+              right="59.75308641975309%"
               padding="0px 0px 0px 0px"
               children="Black"
               {...getOverrideProps(
@@ -629,7 +629,7 @@ export default function FormCheckout(props) {
               )}
             ></Text>
             <Text
-              fontFamily="Indie Flower"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="400"
               color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -643,7 +643,7 @@ export default function FormCheckout(props) {
               top="0%"
               bottom="82.08955223880598%"
               left="29.876543209876544%"
-              right="53.58024691358024%"
+              right="51.85185185185185%"
               padding="0px 0px 0px 0px"
               children="Basic Tee"
               {...getOverrideProps(
@@ -652,7 +652,7 @@ export default function FormCheckout(props) {
               )}
             ></Text>
             <Text
-              fontFamily="Indie Flower"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="400"
               color="rgba(92.00000211596489,102.00000151991844,112.000000923872,1)"
@@ -666,7 +666,7 @@ export default function FormCheckout(props) {
               top="47.76119402985074%"
               bottom="34.32835820895522%"
               left="29.876543209876544%"
-              right="61.48148148148148%"
+              right="59.25925925925925%"
               padding="0px 0px 0px 0px"
               children="Large"
               {...getOverrideProps(
@@ -997,7 +997,7 @@ export default function FormCheckout(props) {
               )}
             ></IconShoppingBag>
             <Text
-              fontFamily="Assistant"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="700"
               color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -1010,7 +1010,7 @@ export default function FormCheckout(props) {
               top="0%"
               bottom="0%"
               left="9.876543209876543%"
-              right="77.03703703703704%"
+              right="74.81481481481481%"
               padding="0px 0px 0px 0px"
               children="Cart (2)"
               {...getOverrideProps(
@@ -1019,7 +1019,7 @@ export default function FormCheckout(props) {
               )}
             ></Text>
             <Text
-              fontFamily="Assistant"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="700"
               color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
@@ -1031,7 +1031,7 @@ export default function FormCheckout(props) {
               position="absolute"
               top="0%"
               bottom="0%"
-              left="86.66666666666667%"
+              left="84.69135802469135%"
               right="0%"
               padding="0px 0px 0px 0px"
               children="$101.70"

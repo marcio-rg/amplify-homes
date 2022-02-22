@@ -31,7 +31,7 @@ export default function MarketingFooter(props) {
         {...getOverrideProps(overrides, "View.View[0]")}
       ></View>
       <Text
-        fontFamily="Indie Flower"
+        fontFamily="Inter"
         fontSize="16px"
         fontWeight="400"
         color="rgba(255,255,255,1)"
@@ -68,7 +68,7 @@ export default function MarketingFooter(props) {
           {...getOverrideProps(overrides, "View.Flex[0].Flex[0]")}
         >
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(255,255,255,1)"
@@ -86,7 +86,7 @@ export default function MarketingFooter(props) {
             {...getOverrideProps(overrides, "View.Flex[0].Flex[0].Text[0]")}
           ></Text>
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(255,255,255,1)"
@@ -104,7 +104,7 @@ export default function MarketingFooter(props) {
             {...getOverrideProps(overrides, "View.Flex[0].Flex[0].Text[1]")}
           ></Text>
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(255,255,255,1)"
@@ -122,7 +122,7 @@ export default function MarketingFooter(props) {
             {...getOverrideProps(overrides, "View.Flex[0].Flex[0].Text[2]")}
           ></Text>
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(255,255,255,1)"
@@ -140,7 +140,7 @@ export default function MarketingFooter(props) {
             {...getOverrideProps(overrides, "View.Flex[0].Flex[0].Text[3]")}
           ></Text>
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(255,255,255,1)"
@@ -168,7 +168,7 @@ export default function MarketingFooter(props) {
           {...getOverrideProps(overrides, "View.Flex[0].Flex[1]")}
         >
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(255,255,255,1)"
@@ -186,7 +186,7 @@ export default function MarketingFooter(props) {
             {...getOverrideProps(overrides, "View.Flex[0].Flex[1].Text[0]")}
           ></Text>
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(255,255,255,1)"
@@ -204,7 +204,7 @@ export default function MarketingFooter(props) {
             {...getOverrideProps(overrides, "View.Flex[0].Flex[1].Text[1]")}
           ></Text>
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(255,255,255,1)"
@@ -224,7 +224,7 @@ export default function MarketingFooter(props) {
         </Flex>
       </Flex>
       <Text
-        fontFamily="Indie Flower"
+        fontFamily="Inter"
         fontSize="16px"
         fontWeight="400"
         color="rgba(255,255,255,1)"
@@ -276,7 +276,7 @@ export default function MarketingFooter(props) {
           {...getOverrideProps(overrides, "View.Flex[1].TextField[0]")}
         ></TextField>
         <Text
-          fontFamily="Indie Flower"
+          fontFamily="Inter"
           fontSize="16px"
           fontWeight="400"
           color="rgba(255,255,255,1)"

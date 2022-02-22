@@ -95,7 +95,7 @@ export default function SocialA(props) {
               )}
             >
               <Text
-                fontFamily="Indie Flower"
+                fontFamily="Inter"
                 fontSize="16px"
                 fontWeight="400"
                 color="rgba(92.00000211596489,102.00000151991844,112.000000923872,1)"
@@ -115,7 +115,7 @@ export default function SocialA(props) {
                 )}
               ></Text>
               <Text
-                fontFamily="Indie Flower"
+                fontFamily="Inter"
                 fontSize="16px"
                 fontWeight="400"
                 color="rgba(92.00000211596489,102.00000151991844,112.000000923872,1)"
@@ -189,13 +189,13 @@ export default function SocialA(props) {
             direction="row"
             alignItems="flex-start"
             shrink="0"
-            width="160px"
+            width="165px"
             position="relative"
             padding="0px 0px 0px 0px"
             {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Flex[2]")}
           >
             <Text
-              fontFamily="Indie Flower"
+              fontFamily="Inter"
               fontSize="16px"
               fontWeight="400"
               color="rgba(92.00000211596489,102.00000151991844,112.000000923872,1)"

@@ -142,7 +142,7 @@ export default function CardG(props) {
           {...getOverrideProps(overrides, "Flex.Flex[0].Flex[1]")}
         >
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(92.00000211596489,102.00000151991844,112.000000923872,1)"
@@ -161,7 +161,7 @@ export default function CardG(props) {
             {...getOverrideProps(overrides, "Flex.Flex[0].Flex[1].Text[0]")}
           ></Text>
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(92.00000211596489,102.00000151991844,112.000000923872,1)"
@@ -251,7 +251,7 @@ export default function CardG(props) {
             ></Text>
           </Flex>
           <Text
-            fontFamily="Assistant"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="700"
             color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"

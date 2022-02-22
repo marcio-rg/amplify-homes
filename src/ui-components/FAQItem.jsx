@@ -45,7 +45,7 @@ export default function FAQItem(props) {
           {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0]")}
         >
           <Text
-            fontFamily="Assistant"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="700"
             color="rgba(0,0,0,1)"
@@ -63,7 +63,7 @@ export default function FAQItem(props) {
             {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Text[0]")}
           ></Text>
           <Text
-            fontFamily="Indie Flower"
+            fontFamily="Inter"
             fontSize="16px"
             fontWeight="400"
             color="rgba(0,0,0,1)"

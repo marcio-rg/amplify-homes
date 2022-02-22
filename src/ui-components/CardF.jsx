@@ -175,7 +175,7 @@ export default function CardF(props) {
           ></Badge>
         </Flex>
         <Text
-          fontFamily="Indie Flower"
+          fontFamily="Inter"
           fontSize="16px"
           fontWeight="400"
           color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"

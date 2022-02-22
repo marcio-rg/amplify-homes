@@ -56,7 +56,7 @@ export default function ContactUs(props) {
           {...getOverrideProps(overrides, "Flex.Flex[0].Text[0]")}
         ></Text>
         <Text
-          fontFamily="Indie Flower"
+          fontFamily="Inter"
           fontSize="16px"
           fontWeight="400"
           color="rgba(92.00000211596489,102.00000151991844,112.000000923872,1)"

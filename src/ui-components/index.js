@@ -33,3 +33,4 @@ export { default as ProfileA } from "./ProfileA";
 export { default as ContactUs } from "./ContactUs";
 export { default as CardB } from "./CardB";
 export { default as Features4x1 } from "./Features4x1";
+export { default as CardBCollection } from "./CardBCollection";

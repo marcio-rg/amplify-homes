@@ -72,7 +72,7 @@ export default function HeroLayout4(props) {
           {...getOverrideProps(overrides, "Flex.Flex[0].Text[1]")}
         ></Text>
         <Text
-          fontFamily="Assistant"
+          fontFamily="Inter"
           fontSize="16px"
           fontWeight="700"
           color="rgba(255,255,255,1)"
@@ -123,7 +123,7 @@ export default function HeroLayout4(props) {
           ></Button>
         </Flex>
         <Text
-          fontFamily="Indie Flower"
+          fontFamily="Inter"
           fontSize="16px"
           fontWeight="400"
           color="rgba(255,255,255,1)"
